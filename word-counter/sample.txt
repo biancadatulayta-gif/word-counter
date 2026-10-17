@@ -1,0 +1,5 @@
+Node.js is a JavaScript runtime. It allows developers to run JavaScript outside the browser.
+
+This activity teaches us how to read files and count lines, words, and characters.
+
+Learning Node.js is useful for backend development. This project teaches us how to handle errors and read text files.
