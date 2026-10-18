@@ -1,0 +1,7 @@
+Node.js lets you run JavaScript outside the browser.
+It is fast and great for building command line tools.
+
+A command line tool reads its input from the arguments you pass in.
+In Node, those arguments live in process.argv.
+
+Reading files is an asynchronous job, so we use async and await.
